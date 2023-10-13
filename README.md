@@ -7,5 +7,5 @@ mueni5/README.md
 - 📫 How to reach me: mbuvichristine5@gmail.com
 
 - 
-Languages and Tools:
-git html5 linux sqlite css react ruby ruby on rails javascript
+### Languages and Tools:
+    git, html5, linux, sqlite, css, react, ruby, ruby on rails, javascript
