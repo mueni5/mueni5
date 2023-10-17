@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Christine</h1>
 <h3 align="center">A passionate full-stack developer from Kenya</h3>
-<img align="left" width="400" src="https://media0.giphy.com/media/3NE7JhJgZBHlMfmNEa/giphy.gif?cid=ecf05e470yanfk70pd8yd8hobsakgykkeeayd0tugzdab7xg&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img align="left" width="500" src="https://media0.giphy.com/media/3NE7JhJgZBHlMfmNEa/giphy.gif?cid=ecf05e470yanfk70pd8yd8hobsakgykkeeayd0tugzdab7xg&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mueni5&label=Profile%20views&color=0e75b6&style=flat" alt="mueni5" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mueni5" alt="mueni5" /></a> </p>
 
 - 🔭 I’m interested in **UI/UX and Product Design**
 
